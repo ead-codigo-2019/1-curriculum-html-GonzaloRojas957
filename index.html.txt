@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Titulo del documento</title>
+  </head>
+  <body>
+    <h1> Curriculum Vitae </h1>
+    <h2> Datos Personales </h2>
+    <ul>
+      <li>Gonzalo Eduardo Rojas Bravo</li>
+      <li>22 de Diciembre, 1997</li>
+      <li>19.679.555-3</li>
+      <li>Chileno</li>
+      <li>Soltero</li>
+      <li> Viana #1155, Edificio Viña Plaza V, Departamento #1610, Viña del Mar</li>
+    </ul>
+    
+    <h2> Contacto </h2>
+    <ul>
+      <li>gonzalorojas957@gmail.com</li>
+      <li> +56 9 76550756 </li>
+    </ul>
+    
+    <h2>Antecedentes Académicos</h2>
+    <ul>
+        <li>Cuarto año de Diseño Gráfico, Pontificia Universidad Católica, <strong>(2016 - actualidad)</strong></li>
+      <li> Instituto San Andrés, Rancagua, <strong>(2002-2015)</strong></li>
+      </ul>
+      
+    <h2> Experiencia Laboral </h2>
+    <ul>
+       <li> Trabajo como Administrador Electoral <strong>(Elecciones Municipales y Presidenciales, 2017)</strong> </li>
+    </ul>
+    
+    <h2> Otros Antecedentes </h2>
+    <ul>
+      <li> Manejo avanzado en: Adobe InDesign; Adobe Photoshop; Adobe Illustrator </li>
+      <li> Manejo intermedio de Código Web </li>
+      <li> Trabajos free-lance en Diseño Gráfico </li>
+     </ul> 
+    
+    <h3> Idiomas </h3>
+     <p><strong>Inglés (B1)</strong></p>
+    <ul>
+         <li><strong>Oral</strong>: Nivel intermedio avanzado</li>
+         <li><strong>Escrito</strong>: Nivel intermedio avanzado</li>
+      </ul>
+    
+    <h2> Ramos Optativos Cursados </h2>
+    <ul>
+        <li>Diseño de Experiencia de Usuario</li>
+        <li>Diseño como Argumento</li>
+        <li>Interaccción y Performativdad</li>
+    </ul>
+    
+    <h2> Reseña de Proyectos </h2>
+    <h3> THEMIS: Una aplicación de Gobernanza Estudiantil </h3>
+    
+    <a href="http://www.imagebam.com/image/56f2401315171766" target="_blank"><img src="https://thumbs2.imagebam.com/bb/73/00/56f2401315171766.jpg" alt="imagebam.com"></a>
+    
+    <p> Durante las movilizaciones a nivel nacional en relación a la salud mental en la Educación Superior, los alumnos de la PUCV deciden <strong>paralizar sus actividades</strong> para darle solución a esta problemática. Tras 7 semanas, la paralización finaliza dando lugar a la reflexión sobre los resultados obtenidos. En particular, al interior de la e[ad] se instaura <strong>la necesidad de replantear nuestro sistema de gobierno</strong>, repensar su funcionamiento y potenciar la representatividad así como permitir incluir todas las voces necesarias para poder avanzar de forma constructiva; necesidad que se extiende también a nivel universitario.</p>
+
+<p><strong>THEMIS</strong> es una aplicación digital de gobernanza, dirigida principalmente a los estudiantes pero también abierta a los exalumnos, docentes y funcionarios no académicos. Este proyecto se estructura a partir de la cooperación y coordinación de las diversas miradas y voces del cuerpo estudiantil para que, de forma transparente y desintermediada, permita el <strong>surgimiento de propuestas originales, viables y que generen el compromiso de la comunidad universitaria</strong>. 
+  
+<strong>THEMIS</strong> está pensado para <strong>gestionar el debate de ideas y propuestas dentro de la comunidad universitaria</strong> de forma transparente y equilibrada, incentivando la participación directa y permitiendo visibilizar los aportes de todos y converger hacia una deliberación verdaderamente colectiva. Queremos promover una comunicación fluida entre los distintos órganos existentes y no reemplazar las instancias de reunión y participación física sino complementar el encuentro físico sincrónico con la gestión asincrónica de la información que permite este soporte digital.</p>
+    <h4><a href="https://wiki.ead.pucv.cl/THEMIS">THEMIS: Una aplicación de Gobernanza Estudiantil</a></h4>
+    
+    <h3> NOVA: Un juego de memoria y agilidad visual </h3>   
+    
+    <a href="http://www.imagebam.com/image/f81e991315169664" target="_blank"><img src="https://thumbs2.imagebam.com/17/02/9c/f81e991315169664.jpg" alt="imagebam.com"></a>
+   
+    <p> <strong>NOVA</strong> es un juego que requiere de <strong>agilidad visual y memoria</strong>. El juego comienza cuando se definen los turnos a través del orden de los <strong>Signos Zodiacales</strong>. Según esto se van definiendo los ordenes de los turnos y comienza el juego cuando el primer jugador (luego de revolver el mazo de cartas) tiene la ventaja de observar y revelar mediante la <strong>Linterna espacial UV</strong> la constelación que le ha tocado y memorizarla dentro de un tiempo acotado de 15 segundos.</p>
+      
+<p> Posterior a esto el jugador debe ir construyendo la constelación dentro del tablero mientras que el jugador del siguiente turno debe ir intentando adivinar la constelación observando el mapa que se encuentra al reverso del instructivo. Si el jugador que tiene la tarea de adivinar y además quien construye, logran hacerlo correctamente, el puntaje obtenido es para quien construye la constelación. En el caso contrario en que el jugador que construye no logra realizar correctamente la constelación (juego de memoria visual), el puntaje se vá sumando al jugador que intenta adivinar. </p>
+   
+    <h4><a href="https://wiki.ead.pucv.cl/Propuesta_de_juego:_Nova#Propuesta_n.C2.B0_3:_NOVA">NOVA: Un juego de memoria y agilidad visual</a></h4>
+    
+    <h3> ATARAXIA: Propuesta digital para niños con Autismo </h3>
+    
+    <a href="http://www.imagebam.com/image/66884e1315169628" target="_blank"><img src="https://thumbs2.imagebam.com/4a/b4/ff/66884e1315169628.jpg" alt="Ataraxia"></a>
+    
+<p> <strong>ATARAXIA</strong> es una solución viable para el problema "contención de crisis" (encontrado en el proceso de investigación) ya que propone una manera didáctica para el niño el sobrellevar un proceso de reconocimiento de emociones en la instancia previa a crisis sensoriales además la aplicación le ofrece un consejo en caso de que sienta tristeza, alegría o enojo a modo de ir ofreciendo <strong>empatía</strong> hacia el usuario "indirecto" aparte de ir preguntando poco a poco lo que quiere realizar posteriormente con su trabajo. </p>
+  
+<p>Por otra parte ¿por qué es útil esta aplicación para los profesores? porque es una fuente de información (decodificada) de fácil acceso que permite al profesor ir evaluando, registrando y constatando todos los procesos del niño con Autismo desde sus primeras etapas de aprendizaje, es por lo mismo que el enfoque de uso es para niños que están en el periodo de Kinder y Quinto básico. </p>
+  
+<p>Se muestra de manera consiguiente un modelo predeterminado de interacción, el cual es de carácter rotativo. Es por esto que está aplicación es retroalimentativa para los distintos actores o usuarios de ella. Gracias a ATARAXIA la parte del docente y la parte del Niño TEA reciben beneficios y entregan contenido hacia las dos partes. </p> 
+    
+    <h4><a href="https://wiki.ead.pucv.cl/Grupo_5:_Discapacidad_Intelectual_(TEA)">Ataraxia:Propuesta digital para niños con Autismo</a></h4>
+    
+    <a href="http://www.imagebam.com/image/09d8ef1315169638" target="_blank"><img src="https://thumbs2.imagebam.com/90/15/3e/09d8ef1315169638.jpg" alt="imagebam.com"></a>
+    
+    <h4>
+    <a href="https://youtu.be/LipxsWKDlmE">ATARAXIA</a>
+      </h4>
